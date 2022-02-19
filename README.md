@@ -31,5 +31,5 @@
 
 <div align="start">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dayonoliveira&theme=tokyonight&show_icons=true"> <br> <br>
-  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayonoliveira&theme=tokyonight">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayonoliveira&theme=tokyonight&layout=compact">
 </div>
