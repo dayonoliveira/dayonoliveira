@@ -4,16 +4,6 @@
 👨🏻‍💻 Computer Science student at the University of Fortaleza (UniFor) <br>
 💻 Front-end developer at Somapay company. <br>
 
-### I'm online at 👇🏼
-
-<a href="https://www.linkedin.com/in/dayon-oliveira/">
-  <img height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/dayon_wow/">
-  <img height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 ### My favorites 💛
 
 #### Front-end 🎨
