@@ -1,8 +1,8 @@
 ### Hello! I'm Dayon 🖖🏼😎
 
 🇧🇷 Born and living in Fortaleza, Brazil <br>
-👨🏻‍💻 Computer Science student at the University of Fortaleza (UniFor) <br>
-💻 Front-end developer at Somapay company. <br>
+👨🏻‍💻 Computer Science and System Analysis and Development student at the University of Fortaleza (UniFor) <br>
+💻 Software Engineer at Somapay SCD company. <br>
 
 ### My favorites 💛
 
